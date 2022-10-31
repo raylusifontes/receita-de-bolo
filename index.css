@@ -1,0 +1,106 @@
+body {
+    left: 21px;
+    width: 884px;   
+}
+
+
+.imagen {
+    width: 883px;
+    height: 374px;
+}
+
+.titulo { 
+    top: 420px;
+    left: 21px;
+    width: 884px;
+    height: 187px;
+    line-height: 79px;
+    text-align: left;
+    font-size: 89px;
+    font-family: Montserrat, Black;
+    font-weight: 900;
+    color: #FFB300;
+    opacity: 1;
+    letter-spacing: 0px;
+    
+}
+
+.autora {
+    top: 617px;
+    left: 21px;
+    width: 884px;
+    height: 28px;
+    text-align: right;
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+
+}
+
+.botoes {
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    font-weight: 600;
+    width: 884px;
+}
+
+#botao1, #botao2, #botao3 {
+    text-decoration: none;
+    border-radius: 50px;
+    height: 20px;
+    width: auto;
+    background-color: #FFB300;
+    color:#000000;
+    padding: 15px;
+}
+
+.separador {
+    margin-right: 20px;
+}
+
+.sobre {
+    font-family: Montserrat, semibold;
+    font-weight: 600;
+    display: block;
+    line-height: 33.81px;
+    font-size: 21px;
+}
+.video {
+    width: 884px;
+}
+
+.subtitulo{
+    text-transform: uppercase;
+    display: block;
+    line-height: 33.81px;
+    font-size: 21px;
+    font-family: Montserrat, Black;
+    font-weight: 900;
+    color: #FFB300;
+}
+
+.subtitulo1 {
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 21px;
+}
+
+.conteudo {
+    font-family: Montserrat, semibold;
+    font-weight: 600;
+    display: block;
+    line-height: 33.81px;
+    font-size: 21px;
+}
+
+.rodape {
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size: 21px;
+}
